@@ -1,0 +1,12 @@
+C:\Users\1info\Documents\Visual Studio 2010\Projects\Cadastro de disciplinas vb\Cadastro de disciplinas vb\obj\x86\Debug\Cadastro de disciplinas vb.vbprojResolveAssemblyReference.cache
+C:\Users\1info\Documents\Visual Studio 2010\Projects\Cadastro de disciplinas vb\Cadastro de disciplinas vb\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\1info\Documents\Visual Studio 2010\Projects\Cadastro de disciplinas vb\Cadastro de disciplinas vb\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\1info\Documents\Visual Studio 2010\Projects\Cadastro de disciplinas vb\Cadastro de disciplinas vb\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\1info\Documents\Visual Studio 2010\Projects\Cadastro de disciplinas vb\Cadastro de disciplinas vb\obj\x86\Debug\Cadastro de disciplinas vb.vbproj.GenerateResource.Cache
+C:\Users\1info\Documents\Visual Studio 2010\Projects\Cadastro de disciplinas vb\Cadastro de disciplinas vb\bin\Debug\Cadastro de disciplinas vb.exe
+C:\Users\1info\Documents\Visual Studio 2010\Projects\Cadastro de disciplinas vb\Cadastro de disciplinas vb\bin\Debug\Cadastro de disciplinas vb.pdb
+C:\Users\1info\Documents\Visual Studio 2010\Projects\Cadastro de disciplinas vb\Cadastro de disciplinas vb\bin\Debug\Cadastro de disciplinas vb.xml
+C:\Users\1info\Documents\Visual Studio 2010\Projects\Cadastro de disciplinas vb\Cadastro de disciplinas vb\bin\Debug\mysql.data.dll
+C:\Users\1info\Documents\Visual Studio 2010\Projects\Cadastro de disciplinas vb\Cadastro de disciplinas vb\obj\x86\Debug\Cadastro de disciplinas vb.exe
+C:\Users\1info\Documents\Visual Studio 2010\Projects\Cadastro de disciplinas vb\Cadastro de disciplinas vb\obj\x86\Debug\Cadastro de disciplinas vb.xml
+C:\Users\1info\Documents\Visual Studio 2010\Projects\Cadastro de disciplinas vb\Cadastro de disciplinas vb\obj\x86\Debug\Cadastro de disciplinas vb.pdb
